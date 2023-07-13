@@ -165,14 +165,22 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
 <br>Added support for custom events in ad inspector.
 </small>
 
-## Extension specifications:
-ℹ️ <b>Size:</b>  1.20 MB\
+# 🧩 More extensions
+🔗 <a href="https://github.com/jewelshkjony/Extensions">See more extensions</a>
+
+## 📝 Extension specifications:
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admanagersdk.aix</a> (1.08 MB) \
 ⚙️ <b>SDK Version:</b> 22.2.0\
 🌎 <b>Released On:</b> 24 June 2021 <small>(GMT+06:00)</small>\
 🌎 <b>Updated On:</b> 07 July 2023 <small>(GMT+06:00)</small>\
 🈸 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk"> AdManagerAds.apk</a>\
-💳 <b>Payment methods:</b> **Binance** | **Crypto** | **Skrill** | **Wise** | **Pyypl** | **Xoom** | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> | **Paypal** | **bKash** | **JazzCash** | **UPI**
+💳 <b>Payment methods:</b> **Binance** | **Crypto** | **Skrill** | **Wise** | **Pyypl** | **Xoom** | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> | **Paypal** | **bKash** | **JazzCash** | **UPI**\
+🤝 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 * **
 
-* If you’re facing any issues, please submit your issues here → [Submit Issues](https://github.com/jewelshkjony/AdmobAds/issues)
+## 📫 How to reach me ↓
+
+<a href="https://t.me/jewelshkjony" target="_blank">Telegram</a> | <a href="https://wa.me/8801775668913" target="_blank">WhatsApp</a> | <a href="https://fb.com/jewelshkjony" target="_blank">Facebook</a> | <a href="https://m.me/jewelshkjony" target="_blank">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1" target="_blank">Youtube</a>
+
+* If you’re facing any issues, please submit your issues here → [Submit Issues](https://github.com/jewelshkjony/AdManagerAds/issues)
 * **
