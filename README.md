@@ -2,12 +2,14 @@
 * AdManager lightweight ads extension for you to monetize your apps with many types of ads. It’s also support dynamic views for native ad. It’s uses is very easy. Just put your ad unit ids to show your real ads, also you can show test ads. Simple, easy and very lightweight extension.
 * You’ll get next minor sdk updates free once you purchased. This extension don’t take any commission from you.
 * Enabled optimized sdk initialization & ad loading features to improve the overall responsiveness of ads.
+* Support Kodular ad-manager child account.
 * **
 
 ## 💹 Multi Component Extension
 * Very simple, just import one aix then you'll get 8 components into one aix.
+* AdManagerCore is mandatory to drag into screen.
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/4ab79b08-842c-44bd-8033-d342775a695d)
+![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/fc17b355-4efb-40f0-b5c9-7e94c0cbe428)
 
 ## 💹 AdManager Sdk **↓**
 * **Initialize** - Call this method as early as possible after the app launches to reduce latency on the session’s first ad request. If this method is not called, the first ad request automatically initializes the Google Mobile Ads SDK.
@@ -15,12 +17,18 @@
 * **RegisterWebView** - Registers a WebView with the Google Mobile Ads SDK to improve in-app ad monetization of ads within this WebView.
 * **OpenDebugMenu** - Opens the debug menu. Initialize method must be called prior to this function.
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/3aa8c8e5-4764-4f84-a5c1-9859adfb35a3)
+![1a36b2081063f4e1e76c8c184815b4736b3345fb](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/a193ace2-3d91-4494-bc8d-dd9c3ffe70d2)
+
+![f49fa89800e8a9c51f40f560d0d9df402de4c552](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/b64d554e-1820-4258-abd1-03d2603cf37f)
+
+![8b09de3540fecf764b0b5f4d69d75379e79109a3](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/11d9c423-a52e-4b8d-ba0c-297956d57e8d)
 
 ## 💹 Ads Consent Form **↓**
 * Later this year, Google will require all publishers serving ads in the EEA and the UK to use a Google-certified consent management platform (CMP). To meet that requirement, you can use any Google-certified CMP, including Google's consent management solution. If you want to use Google's consent management solution, the first thing you need to do is create a GDPR-compliant message and implement the UMP SDK.
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/869d7ea2-e671-4d11-8232-0011233937f7)
+![46b5dde4b403e4f9ac41bb9d5d3914da2dc9580f](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/62c6218b-8509-4b37-82e0-60d92b744ffc)
+
+![65ba4fb88caaa0b98832fd647bdc44e1bc4e4118](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/b98d46e2-99c6-4171-bcff-c704eb8492ec)
 
 * **
 
@@ -45,15 +53,17 @@
 <table>
 <tr>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/dfe1fbaf-f0ed-447d-8c0b-e2998d124168"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/8e56a286-7faf-4e69-8eec-de184b8498f3"/>
 </td>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/c1cbf303-d6ee-47d0-9cf3-b361774ec6c5"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/042f298b-987d-4dc5-ad37-1a46d0706389"/>
 </td>
 </tr>
 </table>
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/28e864aa-261e-44d5-9861-f8c53ce39d1d)
+![06a3b4e813538c68b6ed5b148fa3733ab198da0e](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/fd5e8dd1-834b-4530-8f24-9cf122a08799)
+
+![8e2ea143d497103bc99bc0f3f88274a971e8d54c](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/5a17489b-e73a-4ac3-96a1-bc021f29cfa5)
 
 ## 💹 AdManager Banner Ad **↓**
 * Banner ads are rectangular ads that occupy a portion of an app’s layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
@@ -62,15 +72,17 @@
 <table>
 <tr>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/41aeff46-53cf-4887-b32a-a091fc48f6e8"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/85fd89a7-aa14-4422-af5d-42c48cb5e724"/>
 </td>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/a480f1e1-db4b-453b-b6f5-777fbf23a3f5"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/3843809b-05b9-4f29-aabe-4e13ce0f1969"/>
 </td>
 </tr>
 </table>
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/763e9a46-45b2-460f-8c5c-77a51a27cb57)
+![22a95865f2c6c3f7042842d0466cb2a8f2d22445](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/805509c5-294a-4f28-bf8a-43661022aad6)
+
+![6c3d3d6f0fdf33ad027e23920d7de456ed57479e](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/3ba5c9e3-b5b1-4142-b921-997e93c44b29)
 
 ## 💹 AdManager Interstitial Ad **↓**
 * Interstitials are full-page ad units served between screens during mobile app navigation. They present a user with full-screen app experiences at natural app transition points such as launch, video pre-roll, or game level load.
@@ -78,15 +90,17 @@
 <table>
 <tr>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/1399f1a7-a484-4bbc-8fe2-ba4c5d2598c2"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/65b89da0-e444-41e8-8f11-2bd22c992c6c"/>
 </td>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/ab22a0f2-b415-460d-8291-b96afe7456ec"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/7787b0f6-20a7-4009-a544-06dc2ef8b392"/>
 </td>
 </tr>
 </table>
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/2639b062-8520-4754-a546-b474a9c49656)
+![4e6d210ed4e8a20b042affc94b35d3497cba73d5](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/f39192e7-b0e1-4a76-abb3-47a5c1bfba8e)
+
+![abf37edae0c03cf20143344ff5fa56c8bf44104c](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/89cd5980-db98-479b-9a33-4948580dfe87)
 
 ## 💹 AdManager Native Ad **↓**
 * Native ads match the look and feel of your site or app and provide a better user experience for your visitors. Native ads are different from standard ads in that they’re designed to fit neatly inside the user’s path through your site or app. Visitors still know they’re ads, but they look great next to your content.
@@ -95,15 +109,15 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
 <table>
 <tr>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/64748484-3f89-4a30-b9e6-8fd9da0e4169"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/0575ebc9-cffd-4035-a5fb-1abd35ef9f6c"/>
 </td>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/c9c9f2c8-5025-4515-8038-9df707def130"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/02f818b9-642e-459a-a118-4f5c1b698443"/>
 </td>
 </tr>
 </table>
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/f38827fd-10d6-4eb9-be97-dac69a573baf)
+![7d5d491c96065d0d725a38d6a0f24396ebb371ac](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/e7f087e2-cd7a-4d2f-a0ca-bb3ee570cf39)
 
 ![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/40ec4325-a408-4767-b39b-a82bfa072177)
 
@@ -113,15 +127,17 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
 <table>
 <tr>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/7e48157a-6d30-4841-8aa1-16e79482c6bc"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/1c01f83b-ef7d-4a8d-b70a-1a9aa76dd551"/>
 </td>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/a7a25e00-586b-45c0-b642-d8bbbcf2ce3f"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/3865b284-966c-4af6-a2b4-6cda9262c563"/>
 </td>
 </tr>
 </table>
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/0926c81d-38f3-41e2-b77d-c10e43c4bd09)
+![b0eb255750afc4bb79b738337fabb29d4a680be6](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/2daecc7c-cca2-430e-9879-360f8cb94114)
+
+![0f8456947463a7be9857d6d10603692e98046b81](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/a3055ec8-8ae2-48e1-ba15-6633d1635642)
 
 ## 💹 AdManager Rewarded Interstitial Ad **↓**
 * Rewarded interstitial is a new type of incentivized ad format that allows you to offer rewards, such as coins or extra lives, for ads that appear automatically during natural app transitions. Unlike rewarded ads, users aren’t required to opt-in to view a rewarded interstitial.
@@ -129,15 +145,17 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
 <table>
 <tr>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/a051fea7-2761-445e-8d28-2a69171c86ab"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/9dd53e88-f5d7-44b6-b428-a8daa6c764dc"/>
 </td>
 <td>
-<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/b69f17fd-e024-4c69-b35c-2bd5118e412b"/>
+<img src="https://github.com/jewelshkjony/AdManagerAds/assets/75406851/1b7928a9-969e-49dc-a12e-363c0d9641c2"/>
 </td>
 </tr>
 </table>
 
-![image](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/b2ffb20d-13a1-4d88-8f84-adc73851ef66)
+![ddfadfe108d79b4a7f8ee6a93774b68f947bedeb](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/b0ddb88e-c0bf-4e9f-b844-6c3f71396b8d)
+
+![dc55e142ced93385264d9f46fcc7d902bbdaee60](https://github.com/jewelshkjony/AdManagerAds/assets/75406851/39ffd036-aa81-45fc-a1d6-e38d8e8ca6c5)
 
 **`Note:`** Don’t forget to use your own application id in manifest
 
@@ -172,7 +190,7 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admanagersdk.aix</a> (1.08 MB) \
 ⚙️ <b>SDK Version:</b> 22.2.0\
 🌎 <b>Released On:</b> 24 June 2021 <small>(GMT+06:00)</small>\
-🌎 <b>Updated On:</b> 07 July 2023 <small>(GMT+06:00)</small>\
+🌎 <b>Updated On:</b> 26 July 2023 <small>(GMT+06:00)</small>\
 🈸 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk"> AdManagerAds.apk</a>\
 💳 <b>Payment methods:</b> **Binance** | **Crypto** | **Skrill** | **Wise** | **Pyypl** | **Xoom** | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> | **Paypal** | **bKash** | **JazzCash** | **UPI**\
 🤝 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
