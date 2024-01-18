@@ -193,7 +193,6 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
 🌎 <b>Updated On:</b> 17 December 2023 <small>(GMT+06:00)</small>\
 ⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension" target="_blank">Terms & Conditions</a> \
 🈸 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk" target="_blank">AdManagerAds.apk</a>\
-💳 <b>Payment methods:</b> **Binance** | **Crypto** | **Skrill** | **Wise** | **Pyypl** | **Xoom** | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me" target="_blank">Pay2Me</a> | **Paypal** | **bKash** | **JazzCash** | **UPI**\
 🤝 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 * **
 
