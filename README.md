@@ -187,10 +187,10 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
 🔗 <a href="https://github.com/jewelshkjony/Extensions" target="_blank">See more extensions</a>
 
 ## 📝 Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony" target="_blank">com.jewel.admanagersdk.aix</a> (1.08 MB) \
-⚙️ <b>SDK Version:</b> 22.6.0\
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony" target="_blank">com.jewel.admanagersdk.aix</a> (1.37 MB) \
+⚙️ <b>SDK Version:</b> 23.2.0\
 🌎 <b>Released On:</b> 24 June 2021 <small>(GMT+06:00)</small>\
-🌎 <b>Updated On:</b> 17 December 2023 <small>(GMT+06:00)</small>\
+🌎 <b>Updated On:</b> 01 July 2024 <small>(GMT+06:00)</small>\
 ⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension" target="_blank">Terms & Conditions</a> \
 🈸 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk" target="_blank">AdManagerAds.apk</a>\
 🤝 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
